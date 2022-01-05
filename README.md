@@ -1,4 +1,4 @@
-# SpringBoot_App
+# SpringBoot_App (README en construcción)
 Proyecto basado en SpringBoot con ingredientes de:
 -Una pizca de Lombok
 -MySQL a gusto
