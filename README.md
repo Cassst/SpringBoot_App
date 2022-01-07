@@ -1,4 +1,5 @@
-# SpringBoot_App (README en construcción)
+# SpringBoot_App Proyecto CRUD
+
 Proyecto basado en SpringBoot con ingredientes de:
 -Una pizca de Lombok
 -MySQL a gusto
@@ -7,3 +8,8 @@ Proyecto basado en SpringBoot con ingredientes de:
 -2 Hibernate
 
 luego como lo prepare, spring mvc, transacciones, validaciones, etc
+
+> ## Este es un encabezado.
+>
+> 1.    Este es el primer _item_ de la lista.
+> 2.    Este es el segundo _item_ de la lista.
