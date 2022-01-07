@@ -1,15 +1,11 @@
 # SpringBoot_App Proyecto CRUD
 
-Proyecto basado en SpringBoot con ingredientes de:
--Una pizca de Lombok
--MySQL a gusto
--3/4 de Thymeleaf
--1 JPA
--2 Hibernate
+Proyecto basado en SpringBoot el framework más popular de Java y de aplicaciones Web y Empresariales
 
-luego como lo prepare, spring mvc, transacciones, validaciones, etc
+ ## Receta de la aplicación:
 
- ## Este es un encabezado.
-
- 1.    Este es el primer _item_ de la lista.
- 2.    Este es el segundo _item_ de la lista.
+ 1.    Thymeleaf y Spring MVC.
+ 2.    Manejo de Transacciones.
+ 3.    Validaciones con Spring Framework.
+ 4.    Manejo de Plantillas con Thymeleaf.
+ 5.    Manejo de Mensajes e Internacionalización
