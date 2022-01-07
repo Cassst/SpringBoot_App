@@ -9,7 +9,7 @@ Proyecto basado en SpringBoot con ingredientes de:
 
 luego como lo prepare, spring mvc, transacciones, validaciones, etc
 
-> ## Este es un encabezado.
->
-> 1.    Este es el primer _item_ de la lista.
-> 2.    Este es el segundo _item_ de la lista.
+ ## Este es un encabezado.
+
+ 1.    Este es el primer _item_ de la lista.
+ 2.    Este es el segundo _item_ de la lista.
